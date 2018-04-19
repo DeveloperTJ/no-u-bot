@@ -10,7 +10,7 @@ update_id = None
 def main():
     """Run the bot."""
     global update_id
-    bot = telegram.Bot('559579431:AAHbtZ2HOxM91dxgBJQ0tiMqTevVxyThQw0')
+    bot = telegram.Bot('haha i want to die')
 
     try:
         update_id = bot.get_updates()[0].update_id
